@@ -22,6 +22,7 @@ export default function Home() {
           </li>
           <li>Save and see your changes instantly.</li>
         </ol>
+        <p className="text-red-500">こんにちは、これから勉強を始めます。</p>
 
         <div className="flex gap-4 items-center flex-col sm:flex-row">
           <a
