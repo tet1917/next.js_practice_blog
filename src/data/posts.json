@@ -1,0 +1,22 @@
+{
+    "posts" : [
+        {
+            "id" : "next.js-udemy",
+            "title" : "Next.jsを勉強する",
+            "content" : "shincodeさんの教材でnext.jsを勉強する",
+            "createAt" : "2024/10/24"
+        },
+        {
+            "id" : "next.js-about",
+            "title" : "Next.jsをについて",
+            "content" : "このプロジェクトは、Fair Source Licenseを使用しています。3 人以上のユーザーがいる組織のみ、使用料としてスポンサーシップスポンサーを通じて少額の寄付をお願いしています。このライセンスは、プロジェクトを持続可能かつ健全に保ち、すべての人に利益をもたらすのに役立ちます。",
+            "createAt" : "2024/10/25"
+        },
+        {
+            "id" : "hello-test",
+            "title" : "hello-blog",
+            "content" : "新しくブログ投稿を始めます。",
+            "createAt" : "2024/10/28"
+        }
+    ]
+}
